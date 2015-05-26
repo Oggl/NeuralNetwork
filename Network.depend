@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1430494113 source:d:\neuron\cb\network\main.cpp
+	<iostream>
+	"Neuron_Functors.h"
+	"Network.h"
+	"NetworkParameter.h"
+	"NeuronDatareader.h"
+	<vector>
+	<functional>
+	<type_traits>
+
+1430158978 d:\neuron\cb\network\neuron_functors.h
+	<cmath>
+
+1423148298 source:d:\neuron\cb\network\src\neuron.cpp
+	"Neuron.h"
+
+1423585128 d:\neuron\cb\network\include\neuron.h
+	"../Neuron_Functors.h"
+
+1423589534 source:d:\neuron\cb\network\src\network.cpp
+	"Network.h"
+
+1430157475 d:\neuron\cb\network\include\network.h
+	"Neuron.h"
+	"NetworkParameter.h"
+	<vector>
+	<tuple>
+	"../Neuron_Functors.h"
+	"NetworkContainer.h"
+	<initializer_list>
+	<memory>
+	<random>
+	<algorithm>
+	"NeuronDatareader.h"
+
+1423571166 source:d:\neuron\cb\network\src\networkregion.cpp
+	"NetworkRegion.h"
+
+1423570954 d:\neuron\cb\network\include\networkregion.h
+	<cstdarg>
+	<initializer_list>
+	<iostream>
+	<vector>
+
+1423585818 d:\neuron\cb\network\src\network.cpp
+	"Network.h"
+
+1423673473 source:d:\neuron\cb\network\src\networkcontainer.cpp
+	"NetworkContainer.h"
+
+1429722171 d:\neuron\cb\network\include\networkcontainer.h
+	<vector>
+	<iostream>
+	<tuple>
+	<type_traits>
+	<random>
+	<ctime>
+	<cstdlib>
+
+1423583731 source:d:\neuron\cb\network\src\networkparameter.cpp
+	"NetworkParameter.h"
+
+1423585948 d:\neuron\cb\network\include\networkparameter.h
+	<cstdarg>
+	<initializer_list>
+	<iostream>
+	<vector>
+
+1430149406 d:\neuron\cb\network\include\neurondatareader.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	"../Neuron_Functors.h"
+	<cstring>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cmath>
+	<initializer_list>
+	<climits>
+
+1429794813 source:d:\neuron\cb\network\src\neurondatareader.cpp
+	"NeuronDatareader.h"
+
+1430159125 source:d:\neuron\cb\network\src\networkio.cpp
+	"NetworkIO.h"
+
+1430163195 d:\neuron\cb\network\include\networkio.h
+
